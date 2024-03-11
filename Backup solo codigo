@@ -1,0 +1,2 @@
+mysqldump -u root -p streetweardrop_db > respaldo.sql (Para enviar los datos de la base de datos al respaldo)
+mysqldump -u root -p streetweardropbackup_db < respaldo.sql (Para traer los datos del respaldo a la nueva base de datos)
