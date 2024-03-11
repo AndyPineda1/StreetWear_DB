@@ -1,5 +1,5 @@
 DROP DATABASE if EXISTS streetweardrop_db;
-CREATE DATABASE StreetWearDrop;
+CREATE DATABASE streetweardrop_db;
 USE streetweardrop_db;
 CREATE TABLE Genero (
     id_Genero INT PRIMARY KEY,
