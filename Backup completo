@@ -1,0 +1,13 @@
+Setting environment for using XAMPP for Windows.
+Denis Adiel Castillo@DESKTOP-VVCBI8M c:\xampp
+# mysqldump -u root -p streetweardrop_db > respaldo.sql
+Enter password:
+
+Denis Adiel Castillo@DESKTOP-VVCBI8M c:\xampp
+# mysql -u root -p streetweardropbackup_db < respaldo.sql
+Enter password:
+
+Denis Adiel Castillo@DESKTOP-VVCBI8M c:\xampp
+#
+Denis Adiel Castillo@DESKTOP-VVCBI8M c:\xampp
+#
